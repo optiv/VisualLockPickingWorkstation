@@ -16,6 +16,9 @@ Required Components
 * Cutaway Lock Core
 * 3d printed enclosure
 
+
+![](https://j.gifs.com/gpPyp9.gif)
+
 Command line for displaying live video. This can also be added to a startup script so that it
 automatically starts every time the pi boots.
 
